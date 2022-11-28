@@ -40,7 +40,7 @@ require (
 	github.com/technosophos/moniker v0.0.0-20180509230615-a5dbd03a2245
 	github.com/tinylib/msgp v1.0.2 // indirect
 	github.com/unrolled/secure v0.0.0-20181221173256-0d6b5bb13069
-	go.etcd.io/etcd/client/v3 v3.5.2
+	go.etcd.io/etcd/client/v3 v3.5.6
 	go.mongodb.org/mongo-driver v1.7.1
 	go.opencensus.io v0.23.0
 	golang.org/x/mod v0.4.2
@@ -93,7 +93,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/prometheus/client_golang v1.11.0 // indirect
+	github.com/prometheus/client_golang v1.11.1 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.26.0 // indirect
 	github.com/prometheus/procfs v0.6.0 // indirect
@@ -104,8 +104,8 @@ require (
 	github.com/xdg-go/stringprep v1.0.2 // indirect
 	github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d // indirect
 	github.com/zclconf/go-cty v0.0.0-20190426224007-b18a157db9e2 // indirect
-	go.etcd.io/etcd/api/v3 v3.5.2 // indirect
-	go.etcd.io/etcd/client/pkg/v3 v3.5.2 // indirect
+	go.etcd.io/etcd/api/v3 v3.5.6 // indirect
+	go.etcd.io/etcd/client/pkg/v3 v3.5.6 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.21.0 // indirect
